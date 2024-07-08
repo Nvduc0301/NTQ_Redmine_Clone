@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="bg-red-700">
       NTQ Redmine clone
     </div>
   );
